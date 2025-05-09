@@ -46,6 +46,12 @@ import MobileLuminare
 
 ---
 
+## 📝 Notes
+
+- Items might not look fully like Luminare, this is a work in progress
+
+---
+
 ## 🙏 Credits
 
 Inspired by the excellent [Luminare](https://github.com/MrKai77/Luminare)  by [MrKai77](https://github.com/MrKai77) and others.
